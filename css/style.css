@@ -101,9 +101,9 @@ body {
 .harga-layanan {
   background-color: rgba(48, 92, 145, 0.774);
   border-radius: 0px 20px 0px 20px;
-  height: 300px;
+  padding-bottom: 20px;
   margin-left: 40px;
-  max-width: 200px;
+  max-width: 230px;
   margin-bottom: 10px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   transition: transform 0.3s ease-in-out;
